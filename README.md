@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eyup Kerem Malkoc</h1>
-<h3 align="center">I am dedicated to developing my skills in both frontend and backend development. I have experience with React and actively use it in my projects. Currently, I am learning Next.js and Spring Boot. I am committed to continuous self-improvement and growth.</h3>
+<h3 align="center">I am dedicated to developing my skills in both frontend and backend development. I have experience with React and actively use it in my projects. Currently, I am learning Spring Boot and Next.js. I am committed to continuous self-improvement and growth.</h3>
 
 - 🌱 I’m currently learning **Spring Boot , Next Js**
 
-- 💬 Ask me about **React , Next**
+- 💬 Ask me about **Spring Boot**
 
 - 📫 How to reach me **malkockerem1312@gmail.com**
 
